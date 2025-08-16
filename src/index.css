@@ -56,10 +56,10 @@ button {
 .phished {
     margin: 2rem auto;
     width: 90%;
-    border: 3px solid #e351ad;
+    border: 3px solid #22c2c9;
     padding: 10px;
-    background-color: #e351ad;
+    background-color: #5c1b4a;
     border-radius: 10px;
-    color: #FFF;
+    color: #22c2c9;
     font-size: 2rem;
 }
